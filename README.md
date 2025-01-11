@@ -1,4 +1,4 @@
-### SQL Injection Payload List
+### SQL Injection Payload List 
 
 #### What is SQL injection (SQLi)?
 
