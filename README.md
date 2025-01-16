@@ -6,7 +6,7 @@ SQL injection is a web security vulnerability that allows an attacker to interfe
 
 In some situations, an attacker can escalate an SQL injection attack to compromise the underlying server or other back-end infrastructure, or perform a denial-of-service attack. 
 
-<p align="center"> 
+<p align="center">  
 <img src="https://media.24ways.org/2018/fenn/sql-injection-2.gif">
 </p>
 
