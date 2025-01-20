@@ -21,7 +21,7 @@ In some situations, an attacker can escalate an SQL injection attack to compromi
 |Out-of-band SQLi|Out-of-band SQL Injection is not very common, mostly because it depends on features being enabled on the database server being used by the web application. Out-of-band SQL Injection occurs when an attacker is unable to use the same channel to launch the attack and gather results. Out-of-band techniques, offer an attacker an alternative to inferential time-based techniques, especially if the server responses are not very stable (making an inferential time-based attack unreliable).|
 | Voice Based Sql Injection | It is a sql injection attack method that can be applied in applications that provide access to databases with voice command. An attacker could pull information from the database by sending sql queries with sound. |
 
-#### Generic Error Based Payloads
+#### Generic Error Based Payloads 
 
 ```
  OR 1=1
